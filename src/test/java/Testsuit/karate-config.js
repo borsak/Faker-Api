@@ -13,6 +13,3 @@ karate.configure('connectTimeout', 30000)
 karate.configure(redTimeout, 30000)
 return config;
 }
-
-return config;
-}
